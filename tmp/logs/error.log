@@ -1,0 +1,161 @@
+2014-04-22 16:45:49 Error: [MissingControllerException] Controller class InstallController could not be found.
+Exception Attributes: array (
+  'class' => 'InstallController',
+  'plugin' => NULL,
+)
+Request URL: /projects/phpetri/install
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 19:38:45 Error: [MissingControllerException] Controller class SurveyController could not be found.
+Exception Attributes: array (
+  'class' => 'SurveyController',
+  'plugin' => NULL,
+)
+Request URL: /projects/phpetri/Survey/new
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 19:38:50 Error: [MissingControllerException] Controller class SurveysController could not be found.
+Exception Attributes: array (
+  'class' => 'SurveysController',
+  'plugin' => NULL,
+)
+Request URL: /projects/phpetri/Surveys/new
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 19:39:01 Error: [MissingControllerException] Controller class PluginController could not be found.
+Exception Attributes: array (
+  'class' => 'PluginController',
+  'plugin' => NULL,
+)
+Request URL: /projects/phpetri/plugin/Survey/new
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 19:39:14 Error: [MissingControllerException] Controller class PluginController could not be found.
+Exception Attributes: array (
+  'class' => 'PluginController',
+  'plugin' => NULL,
+)
+Request URL: /projects/phpetri/plugin/Survey/new
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 19:39:23 Error: [MissingControllerException] Controller class PluginController could not be found.
+Exception Attributes: array (
+  'class' => 'PluginController',
+  'plugin' => NULL,
+)
+Request URL: /projects/phpetri/plugin/Survey/add
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 19:39:26 Error: [MissingControllerException] Controller class SurveyController could not be found.
+Exception Attributes: array (
+  'class' => 'SurveyController',
+  'plugin' => NULL,
+)
+Request URL: /projects/phpetri/Survey/add
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 19:39:32 Error: [MissingControllerException] Controller class SurveysController could not be found.
+Exception Attributes: array (
+  'class' => 'SurveysController',
+  'plugin' => NULL,
+)
+Request URL: /projects/phpetri/Surveys/add
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 19:42:52 Error: [MissingControllerException] Controller class SurveysController could not be found.
+Exception Attributes: array (
+  'class' => 'SurveysController',
+  'plugin' => NULL,
+)
+Request URL: /projects/phpetri/Surveys/add
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 19:42:57 Error: [MissingControllerException] Controller class SurveysController could not be found.
+Exception Attributes: array (
+  'class' => 'SurveysController',
+  'plugin' => NULL,
+)
+Request URL: /projects/phpetri/Surveys
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 19:43:01 Error: [MissingControllerException] Controller class SurveysController could not be found.
+Exception Attributes: array (
+  'class' => 'SurveysController',
+  'plugin' => NULL,
+)
+Request URL: /projects/phpetri/surveys
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 19:43:06 Error: [MissingControllerException] Controller class SurveysaController could not be found.
+Exception Attributes: array (
+  'class' => 'SurveysaController',
+  'plugin' => 'Surveysa',
+)
+Request URL: /projects/phpetri/surveysa
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 19:43:38 Error: [MissingControllerException] Controller class SurveysController could not be found.
+Exception Attributes: array (
+  'class' => 'SurveysController',
+  'plugin' => NULL,
+)
+Request URL: /projects/phpetri/surveys
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 19:47:38 Error: [MissingControllerException] Controller class SurveysController could not be found.
+Exception Attributes: array (
+  'class' => 'SurveysController',
+  'plugin' => NULL,
+)
+Request URL: /projects/phpetri/surveys
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 19:47:50 Error: [MissingControllerException] Controller class SurveysController could not be found.
+Exception Attributes: array (
+  'class' => 'SurveysController',
+  'plugin' => NULL,
+)
+Request URL: /projects/phpetri/surveys
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-22 19:48:08 Error: [MissingActionException] Action Surveys::display() could not be found.
+Exception Attributes: array (
+  'controller' => 'Surveys',
+  'action' => 'display',
+)
+Request URL: /projects/phpetri/surveys
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\lib\Cake\Controller\Scaffold.php(151): Scaffold->_scaffold(Object(CakeRequest))
+#1 C:\Users\allenr\Google Drive\projects\Apache\phpetri\lib\Cake\Controller\Controller.php(535): Scaffold->__construct(Object(SurveysController), Object(CakeRequest))
+#2 C:\Users\allenr\Google Drive\projects\Apache\phpetri\lib\Cake\Controller\Controller.php(494): Controller->_getScaffold(Object(CakeRequest))
+#3 C:\Users\allenr\Google Drive\projects\Apache\phpetri\lib\Cake\Routing\Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#4 C:\Users\allenr\Google Drive\projects\Apache\phpetri\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#5 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2014-04-22 19:50:27 Error: [MissingViewException] View file "C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\Plugin\Surveysa\View\Surveys\display.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\Users\\allenr\\Google Drive\\projects\\Apache\\phpetri\\app\\Plugin\\Surveysa\\View\\Surveys\\display.ctp',
+)
+Request URL: /projects/phpetri/surveys
+Stack Trace:
+#0 C:\Users\allenr\Google Drive\projects\Apache\phpetri\lib\Cake\View\View.php(463): View->_getViewFileName(NULL)
+#1 C:\Users\allenr\Google Drive\projects\Apache\phpetri\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\Users\allenr\Google Drive\projects\Apache\phpetri\lib\Cake\Routing\Dispatcher.php(192): Controller->render()
+#3 C:\Users\allenr\Google Drive\projects\Apache\phpetri\lib\Cake\Routing\Dispatcher.php(160): Dispatcher->_invoke(Object(SurveysController), Object(CakeRequest), Object(CakeResponse))
+#4 C:\Users\allenr\Google Drive\projects\Apache\phpetri\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}

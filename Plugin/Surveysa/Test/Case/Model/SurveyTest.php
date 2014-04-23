@@ -13,7 +13,9 @@ class SurveyTest extends CakeTestCase {
  * @var array
  */
 	public $fixtures = array(
-		'plugin.surveysa.survey'
+		'plugin.surveysa.survey',
+		'plugin.surveysa.survey_question',
+		'plugin.surveysa.survey_response'
 	);
 
 /**

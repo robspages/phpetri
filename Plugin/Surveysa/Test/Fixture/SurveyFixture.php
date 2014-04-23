@@ -6,13 +6,6 @@
 class SurveyFixture extends CakeTestFixture {
 
 /**
- * Table name
- *
- * @var string
- */
-	public $table = 'survey';
-
-/**
  * Fields
  *
  * @var array
@@ -41,12 +34,12 @@ class SurveyFixture extends CakeTestFixture {
 		array(
 			'id' => 1,
 			'name' => 'Lorem ipsum dolor sit amet',
-			'start_date' => '2014-04-22 11:23:55',
-			'end_date' => '2014-04-22 11:23:55',
+			'start_date' => '2014-04-22 13:56:46',
+			'end_date' => '2014-04-22 13:56:46',
 			'created_by' => 1,
-			'created_date' => 1398180235,
+			'created_date' => 1398189406,
 			'modified_by' => 1,
-			'modified_date' => '2014-04-22 11:23:55'
+			'modified_date' => '2014-04-22 13:56:46'
 		),
 	);
 

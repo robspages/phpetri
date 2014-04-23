@@ -105,3 +105,9 @@ CakeLog::config('error', array(
 	'types' => array('warning', 'error', 'critical', 'alert', 'emergency'),
 	'file' => 'error',
 ));
+
+
+// Plugins 
+
+CakePlugin::load('DebugKit');
+CakePlugin::load('Surveysa', array('bootstrap' => false, 'routes' => true));

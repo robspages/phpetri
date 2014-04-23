@@ -3,15 +3,10 @@ App::uses('SurveysaAppModel', 'Surveysa.Model');
 /**
  * Survey Model
  *
+ * @property SurveyQuestion $SurveyQuestion
+ * @property SurveyResponse $SurveyResponse
  */
 class Survey extends SurveysaAppModel {
-
-/**
- * Use table
- *
- * @var mixed False or table name
- */
-	public $useTable = 'survey';
 
 /**
  * Validation rules
@@ -70,4 +65,41 @@ class Survey extends SurveysaAppModel {
 			),
 		),
 	);
+
+	//The Associations below have been created with all possible keys, those that are not needed can be removed
+
+/**
+ * hasMany associations
+ *
+ * @var array
+ */
+	public $hasMany = array(
+		'SurveyQuestion' => array(
+			'className' => 'SurveyQuestion',
+			'foreignKey' => 'survey_id',
+			'dependent' => false,
+			'conditions' => '',
+			'fields' => '',
+			'order' => '',
+			'limit' => '',
+			'offset' => '',
+			'exclusive' => '',
+			'finderQuery' => '',
+			'counterQuery' => ''
+		),
+		'SurveyResponse' => array(
+			'className' => 'SurveyResponse',
+			'foreignKey' => 'survey_id',
+			'dependent' => false,
+			'conditions' => '',
+			'fields' => '',
+			'order' => '',
+			'limit' => '',
+			'offset' => '',
+			'exclusive' => '',
+			'finderQuery' => '',
+			'counterQuery' => ''
+		)
+	);
+
 }
